@@ -1,0 +1,6 @@
+print("Hello", "World", 123, 3.14, True)
+print("Hello", "World", 123, 3.14, True, sep="-")
+print("Hello", "World", 123, 3.14, True, sep="#")
+print("Hello", "World", 123, 3.14, True, sep="  ")
+print("Hello", "World", 123, 3.14, True, sep="")
+print("Hi, My name is Sayoojya", "C V", sep="-")
